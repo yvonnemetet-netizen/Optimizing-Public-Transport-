@@ -11,8 +11,8 @@ The Company's mission is to provide efficient, affordable, and timely public tra
 1. MetroMove has collected a large volume of data which is messy, inconsistent, and incomplete.
 2. The company has no insights on trip performance, passenger behavior, and fare patterns.
 3. The new data-driven initiative is to:
-  - Clean, explore, and summarize trip records,
-  - Identify inefficiencies and key patterns.
+  - Clean, explore, and summarize trip records
+  - Identify inefficiencies and key patterns
   - Drive operational improvements
 
 
@@ -27,8 +27,8 @@ The Company's mission is to provide efficient, affordable, and timely public tra
  exploration, and visualization in Jupyter Notebook.
 2. Data Ingestion- Loaded the CSV file containing transport trip data.
 3. Data Cleaning:
-   - Resolved inconsistencies across key columns.
-   - Handled missing values to ensure data integrity.
+   - Resolved inconsistencies across key columns
+   - Handled missing values to ensure data integrity
 4. Feature Engineering:
    - Extracted month and year from trip_date.
    - Created new variables including:
