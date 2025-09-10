@@ -1,6 +1,8 @@
 # OPTIMIZING PUPLIC TRANSPORT
 ## Turning messy transit data into clear insights to improve efficiency, passenger experience, and decision-making in public transport.
 ![image alt](https://github.com/yvonnemetet-netizen/My-Image-folder-/blob/main/Multple%20transport.jpg?raw=true)
+*Disclaimer: The datasets and reports used in this project are synthetic. They do not represent real-world data and are provided solely to demonstrate exploratory data analysis (EDA) techniques in Python.*
+
 ## Introduction
 This project aims to support MetroMove Transit Solutions- a public transportation service provider operating in multiple cities.
 who manage and analyze thousands of daily trips taken via buses, trains, ferries, and trams.
